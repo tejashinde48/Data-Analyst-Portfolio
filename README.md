@@ -1,6 +1,6 @@
-Tejas Shinde - Data Analyst Portfolio
+**Tejas Shinde - Data Analyst Portfolio**
 
-About
+**About**
 
 Data Analyst with a passion for turning raw data into actionable insights that drive business success. With expertise in data analysis, data visualization, and business intelligence, I specialize in leveraging tools like Power BI, Tableau, and SQL to transform complex datasets into meaningful, easy-to-understand reports.
 
@@ -11,4 +11,14 @@ Certified in Google Data Analytics, I apply statistical analysis and critical th
 Ready to drive impact and support companies in making smarter decisions with data, I look forward to connecting with like-minded professionals and organizations dedicated to innovation through analytics.
 
 
-My CV in  pdf.
+My CV in pdf.
+
+
+**Certificates**
+
+
+**Contacts**
+
+LinkedIn: https://www.linkedin.com/in/tejas-shinde2012/
+
+Email : tejas.shinde48@gmail.com
